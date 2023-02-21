@@ -2,6 +2,6 @@
 Repository ini berisi pengalaman belajar di Dicoding Academy
 
 14 Juni 2021 
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-  *Belajar tentang apa itu Java dan alasan menggunakannya.
-  *Belajar tools yang dapat digunakan untuk menjalankan bahasa Pemrograman Java.
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 35%).
+  - Belajar tentang apa itu Java dan alasan menggunakannya.
+  - Belajar tools yang dapat digunakan untuk menjalankan bahasa Pemrograman Java.
